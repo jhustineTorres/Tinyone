@@ -1,0 +1,112 @@
+#top{
+    background-color: #fcdb00;
+}
+.container{
+    margin: 50px 90px 20px 90px;
+}
+.hbutton li{    
+    display: inline-block;
+    padding: 12px 0px 0px 0px;
+}
+.hbutton li a{
+    color:Black;
+    text-decoration: none;
+    padding-left: 50px;
+    font-family:"PTSans";
+    font-weight: bold;
+    font-size: 22px;
+}
+#toprow2{
+    margin: 60px 0px 60px 0px;
+}
+#toprow2col1{
+    font-family:"PTSans";
+    padding: 90px 0px 0px 0px;
+}
+.p1{
+    font-weight: bold;
+    font-size: 28px;
+    color: #010101;
+}
+p2{
+
+    font-size: 23px;
+    color: #010101;
+}
+p3{
+    font-size: 21px;
+    color: #555555;
+}
+#bullets{
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+}
+#mid{
+    background-color: #ffffff;
+}
+#midrow1{
+    margin-top: 20px;
+    font-family:"PTSans";
+    text-align: center;
+}
+#midrow2{
+    margin: 20px 0px 45px 0px;
+}
+#midrow2 .row{
+    margin-top: 40px;
+}
+#midrow2 li{
+    display: inline-block;
+}
+#midrow2 strong{
+    font-size: 20px;
+}
+#midrow2strong{
+    padding: 0px 0px 0px 55px;
+}
+p4{
+    font-weight: bold;
+    font-size: 28px;
+    color: #010101;
+}
+p5{
+    font-size: 21px;
+    color: #010101;
+}
+#bot{
+    background-color: #010101;
+}
+#botrow1{
+    text-align: center;
+}
+#botrow1 p6{
+    font-family:"PTSans";
+    font-weight: bold;
+    font-size: 28px;
+    color: #fcdb00;
+}
+#botrow1 p7{
+    font-family:"PTSans";
+    font-size: 21px;
+    color: #646464;
+}
+#botrow2{
+    text-align: center;
+}
+#botrow3{
+    margin: 50px;
+    text-align: center;
+}
+#botrow3 li{
+    margin: 50px 0px 30px 0px;
+    display: inline-block;
+    padding: 15px;
+}
+#botrow4{
+    text-align: center;
+}
+#botrow5 li{
+    display: inline-block;
+    color: #ffffff;
+    margin: 50px 0px 30px 0px;
+}
