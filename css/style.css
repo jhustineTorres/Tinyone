@@ -2,7 +2,7 @@
     background-color: #fcdb00;
 }
 .container{
-    margin: 50px 90px 20px 90px;
+    margin: 50px auto 20px auto;
 }
 .hbutton li{    
     display: inline-block;
@@ -24,16 +24,18 @@
     padding: 90px 0px 0px 0px;
 }
 .p1{
+    margin: 10px 0px 10px 0px;
     font-weight: bold;
     font-size: 28px;
     color: #010101;
 }
-p2{
-
+.p2{
+    margin: 10px 0px 10px 0px;
     font-size: 23px;
     color: #010101;
 }
-p3{
+.p3{
+    margin: 10px 0px 10px 0px;
     font-size: 21px;
     color: #555555;
 }
@@ -45,7 +47,7 @@ p3{
     background-color: #ffffff;
 }
 #midrow1{
-    margin-top: 20px;
+    margin: 20px 0px 30px 0px;
     font-family:"PTSans";
     text-align: center;
 }
@@ -56,6 +58,7 @@ p3{
     margin-top: 40px;
 }
 #midrow2 li{
+    margin: 0px 0px 15px 0px;
     display: inline-block;
 }
 #midrow2 strong{
@@ -64,12 +67,14 @@ p3{
 #midrow2strong{
     padding: 0px 0px 0px 55px;
 }
-p4{
+.p4{
+    margin: 30px 0px 10px 0px;
     font-weight: bold;
     font-size: 28px;
     color: #010101;
 }
-p5{
+.p5{
+    margin: 10px 0px 20px 0px;
     font-size: 21px;
     color: #010101;
 }
@@ -79,13 +84,15 @@ p5{
 #botrow1{
     text-align: center;
 }
-#botrow1 p6{
+#botrow1 .p6{
+    margin: 30px 0px 10px 0px;
     font-family:"PTSans";
     font-weight: bold;
     font-size: 28px;
     color: #fcdb00;
 }
-#botrow1 p7{
+#botrow1 .p7{
+    margin: 10px 0px 35px 0px;
     font-family:"PTSans";
     font-size: 21px;
     color: #646464;
@@ -94,7 +101,7 @@ p5{
     text-align: center;
 }
 #botrow3{
-    margin: 50px;
+    margin: 30px auto 20px auto;
     text-align: center;
 }
 #botrow3 li{
@@ -109,4 +116,26 @@ p5{
     display: inline-block;
     color: #ffffff;
     margin: 50px 0px 30px 0px;
+}
+.submitbar{
+    width: 588px;
+    height: 55px;
+    font-size: 15px;
+    padding: 2px 0px 0px 20px;
+    background-color: white;
+    margin-left: 2px;
+    margin-top: 7px;
+    border-radius: 7px;
+    border: 3px solid black;
+}
+.submitbutton{
+    margin: 0px 0px 0px 13px;
+    height:55px;
+    width:125px;
+    font-size: 15px;
+    color:black;
+    cursor: pointer;
+    background-color: #fcdb00;
+    border-radius: 7px;
+    border: 3px solid black;
 }
